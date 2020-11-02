@@ -61,4 +61,78 @@ body{
 
 .number, .operator{
   cursor: pointer;
-} 
+}
+
+.one {
+  background-image: url('bulb.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  }
+
+  .two {
+    background-image: url('ivy.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    }
+
+    .three {
+      background-image: url('ven.png');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      
+      }
+
+.four {
+background-image: url('char.jpg');
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
+.five {
+  background-image: url('charm.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  }
+
+  .six {
+    background-image: url('chari.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    }
+    
+    .seven {
+      background-image: url('squir.png');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      
+      }
+      .eigth {
+        background-image: url('wart.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        
+        }
+        .nine {
+          background-image: url('blas.png');
+          background-size: contain;
+          background-repeat: no-repeat;
+          background-position: center;
+          
+          }
+
+button:nth-child(1){
+  background-color: greenyellow;
+}

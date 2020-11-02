@@ -1,3 +1,3 @@
 # calculadora
 
-Calculadora con tematica Pokemon
+Pokemon calculator
